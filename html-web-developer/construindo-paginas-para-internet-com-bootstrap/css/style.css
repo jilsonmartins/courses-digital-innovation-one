@@ -1,0 +1,31 @@
+body {
+    font-family: 20px 'Roboto', sans-serif; ;
+}
+.navbar {
+    background-color:gray;
+}
+
+.quem-somos {
+    background-color: white;
+    
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+#img-formato {
+   width: 700px;
+}
+.parceiros {
+    background-color: gray;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+
+div img {
+    border-radius: 10px;
+}
